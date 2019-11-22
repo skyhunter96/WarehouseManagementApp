@@ -3,7 +3,7 @@
 	
 #Info
 
-This is a warehouse and material management application. Warehouses have various addresses where all sorts of items are stored. Users can add new items. CRUD is available for all resources. Validation is done through CakePHP's Model Validation system. There are groups of users which have different access rights. This is regulated by Access Control Lists. Also, various external libraries were used such as: tcpdf, phpexcel and Select2. There is a AJAX Live Search of records inside a database. You can test the application live on ...
+This is a warehouse and material management MVC application. Warehouses have various addresses where all sorts of items are stored. Users can add new items. CRUD is available for all resources. Validation is done through CakePHP's Model Validation system. There are groups of users which have different access rights. This is regulated by Access Control Lists. Also, various external libraries were used such as: tcpdf, phpexcel and Select2. There is a AJAX Live Search of records inside a database. You can test the application live on ...
 
 #General
 
